@@ -1,0 +1,145 @@
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\bin\Debug\SisCoMi.pdb
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\bin\Debug\SisCoMi.xml
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Login.resources
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Resources.resources
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Inicio.resources
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Buscar_Miembro.resources
+C:\Documents and Settings\Mau\Mis documentos\Visual Studio 2008\Projects\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Miembro.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\bin\Debug\SisCoMi.pdb
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\bin\Debug\SisCoMi.xml
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Buscar_Miembro.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Listado_Organizaciones.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Login.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Organizacion.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Miembro.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Resources.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Inicio.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Usuario.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Respaldar.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Restaurar.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Acerca_de.resources
+G:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+G:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+G:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\bin\Debug\SisCoMi.pdb
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\bin\Debug\SisCoMi.xml
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\ResolveAssemblyReference.cache
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Buscar_Miembro.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Listado_Organizaciones.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Login.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Organizacion.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Usuario.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Miembro.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Respaldar.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Restaurar.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Acerca_de.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Resources.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Inicio.resources
+I:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\SisCoMi\obj\Debug\SisCoMi.vbproj.GenerateResource.Cache
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Buscar_Miembro.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Listado_Organizaciones.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Login.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Organizacion.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Usuario.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Miembro.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Respaldar.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Restaurar.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Acerca_de.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Resources.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Inicio.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.vbproj.GenerateResource.Cache
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.pdb
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.xml
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\DLL.dll
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\DLL.pdb
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\DLL.xml
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe.config
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Bitacora.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_Reporte.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Foto.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe.config
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.pdb
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.xml
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\DLL.dll
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\DLL.pdb
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\DLL.xml
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\ResolveAssemblyReference.cache
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_Datos_Organizacion.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Bitacora.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Buscar_Miembro.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_Datos_Miembro.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_datos_Personales.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Listado_Organizaciones.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Login.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Organizacion.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Usuario.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Foto.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Miembro.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_Reporte.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Respaldar.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Restaurar.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Acerca_de.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Resources.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Inicio.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.vbproj.GenerateResource.Cache
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe.config
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 7Nov\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe.config
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.pdb
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\SisCoMi.pdb
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\SisCoMi.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\DLL.dll
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\DLL.pdb
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\DLL.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Bitacora.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Buscar_Miembro.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_Datos_Miembro.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Listado_Organizaciones.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Login.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Organizacion.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Usuario.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Foto.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Mantenimiento_Miembro.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.frm_Reporte.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Respaldar.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Restaurar.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Acerca_de.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Resources.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.Frm_Inicio.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.vbproj.GenerateResource.Cache
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\SisCoMi.exe.manifest
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\bin\Debug\SisCoMi.application
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.TrustInfo.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.exe.manifest
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\SisCoMi\obj\Debug\SisCoMi.application

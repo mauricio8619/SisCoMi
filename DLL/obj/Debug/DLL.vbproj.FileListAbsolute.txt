@@ -1,0 +1,33 @@
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\DLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\DLL\obj\Debug\DLL.Resources.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\DLL\obj\Debug\DLL.vbproj.GenerateResource.Cache
+G:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\DLL\obj\Debug\ResolveAssemblyReference.cache
+G:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\DLL\obj\Debug\DLL.Resources.resources
+G:\Practica Empresarial Edwin31\Practica Empresarial Edwin31oct\SiCoMi\DLL\obj\Debug\DLL.vbproj.GenerateResource.Cache
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.Resources.resources
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.vbproj.GenerateResource.Cache
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\bin\Debug\DLL.dll
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\bin\Debug\DLL.pdb
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\bin\Debug\DLL.xml
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.dll
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.xml
+E:\Documents and Settings\Mauricio\Escritorio\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.pdb
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\bin\Debug\DLL.dll
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\bin\Debug\DLL.pdb
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\bin\Debug\DLL.xml
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\ResolveAssemblyReference.cache
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.Resources.resources
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.vbproj.GenerateResource.Cache
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.dll
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.xml
+G:\Practica Empresarial Edwin 7Nov\SiCoMi\DLL\obj\Debug\DLL.pdb
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\bin\Debug\DLL.dll
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\bin\Debug\DLL.pdb
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\bin\Debug\DLL.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\obj\Debug\DLL.Resources.resources
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\obj\Debug\DLL.vbproj.GenerateResource.Cache
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\obj\Debug\DLL.dll
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\obj\Debug\DLL.xml
+C:\Users\Cambiolabs\Desktop\Practica Empresarial Edwin 2013\SiCoMi\DLL\obj\Debug\DLL.pdb

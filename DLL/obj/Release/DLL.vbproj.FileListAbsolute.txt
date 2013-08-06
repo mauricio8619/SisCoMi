@@ -1,0 +1,3 @@
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\DLL\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\DLL\obj\Release\DLL.Resources.resources
+C:\Documents and Settings\Mau\Escritorio\Practica Empresarial Edwin31\SiCoMi\DLL\obj\Release\DLL.vbproj.GenerateResource.Cache

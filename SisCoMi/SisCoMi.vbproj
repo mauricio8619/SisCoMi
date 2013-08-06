@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B1E5CE7A-3EAB-4195-B17E-A7AFC60AD25C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SisCoMi.My.MyApplication</StartupObject>
+    <RootNamespace>SisCoMi</RootNamespace>
+    <AssemblyName>SisCoMi</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+    <TargetZone>LocalIntranet</TargetZone>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SisCoMi.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SisCoMi.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\WINDOWS\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataSet.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DataSet.vb">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Bitacora.Designer.vb">
+      <DependentUpon>Frm_Bitacora.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Bitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Buscar_Miembro.Designer.vb">
+      <DependentUpon>Frm_Buscar_Miembro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Buscar_Miembro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm_Datos_Miembro.Designer.vb">
+      <DependentUpon>frm_Datos_Miembro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm_Datos_Miembro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Listado Organizaciones.Designer.vb">
+      <DependentUpon>Frm_Listado Organizaciones.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Listado Organizaciones.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Login.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Login.Designer.vb">
+      <DependentUpon>Frm_Login.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento Organizacion.Designer.vb">
+      <DependentUpon>Frm_Mantenimiento Organizacion.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento Organizacion.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento Usuario.Designer.vb">
+      <DependentUpon>Frm_Mantenimiento Usuario.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento Usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento_Foto.Designer.vb">
+      <DependentUpon>Frm_Mantenimiento_Foto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento_Foto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento_Miembro.Designer.vb">
+      <DependentUpon>Frm_Mantenimiento_Miembro.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Mantenimiento_Miembro.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\frm_Reporte.Designer.vb">
+      <DependentUpon>frm_Reporte.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\frm_Reporte.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Respaldar.Designer.vb">
+      <DependentUpon>Frm_Respaldar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Respaldar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Restaurar.Designer.vb">
+      <DependentUpon>Frm_Restaurar.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Restaurar.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Frm_Acerca_de.Designer.vb">
+      <DependentUpon>Frm_Acerca_de.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Acerca_de.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Formularios\Frm_Inicio.Designer.vb">
+      <DependentUpon>Frm_Inicio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Frm_Inicio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rp_listado.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Rp_listado.rpt</DependentUpon>
+    </Compile>
+    <Compile Include="var.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Formularios\Frm_Bitacora.resx">
+      <DependentUpon>Frm_Bitacora.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Buscar_Miembro.resx">
+      <DependentUpon>Frm_Buscar_Miembro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frm_Datos_Miembro.resx">
+      <DependentUpon>frm_Datos_Miembro.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Listado Organizaciones.resx">
+      <DependentUpon>Frm_Listado Organizaciones.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Login.resx">
+      <DependentUpon>Frm_Login.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Mantenimiento Organizacion.resx">
+      <DependentUpon>Frm_Mantenimiento Organizacion.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Mantenimiento Usuario.resx">
+      <DependentUpon>Frm_Mantenimiento Usuario.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Mantenimiento_Foto.resx">
+      <DependentUpon>Frm_Mantenimiento_Foto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Mantenimiento_Miembro.resx">
+      <DependentUpon>Frm_Mantenimiento_Miembro.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\frm_Reporte.resx">
+      <DependentUpon>frm_Reporte.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Respaldar.resx">
+      <DependentUpon>Frm_Respaldar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Restaurar.resx">
+      <DependentUpon>Frm_Restaurar.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Acerca_de.resx">
+      <DependentUpon>Frm_Acerca_de.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Frm_Inicio.resx">
+      <DependentUpon>Frm_Inicio.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rp_listado.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>Rp_listado.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350962045_checkin_key.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350962307_keepassx.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350963463_Login Manager.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350963625_organization.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350963687_administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350964369_Log Out.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350964632_Help.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350964853_Add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350964904_desktop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350964952_preferences-desktop-user-password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350965004_Database_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350965021_Database-Upload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350965026_download-database.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350965159_security yellow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350966379_BeOS_Help_book.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350966437_system-software-installer.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\christus.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350967056_calendar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350967090_alarmd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350967678_administrator.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350969715_back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350970899_-trash.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350970927_button_blue_repeat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1350971165_Save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="DataSet.xsc">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="DataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DataSet.Designer.vb</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="DataSet.xss">
+      <DependentUpon>DataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Resources\1350971740_print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DLL\DLL.vbproj">
+      <Project>{E2D49CC4-B96E-42C0-89AD-2E1A0A43C7F5}</Project>
+      <Name>DLL</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1353481746_edit-clear.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1353878295_gnome-searchtool.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1365673661_camera_64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1365674096_preferences-desktop-personal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1365674082_Search-Male-User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1365674473_37594.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1365674703_iPhoto.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="Resources\1365674675_Binoculars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Image1.bmp" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1369855171_forward.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
